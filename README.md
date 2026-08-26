@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+## 🚀 Live Demo
+
+[Open Customer Churn Prediction App](https://customer-churn-prediction-uudta6ltrruggjnjopgxne.streamlit.app/)
+
 ## Project Overview
 
 This project predicts whether a customer is likely to churn based on customer demographic and service-related information.
